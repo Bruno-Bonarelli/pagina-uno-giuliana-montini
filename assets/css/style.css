@@ -642,6 +642,9 @@ section {
 .about .icon-box {
   margin-top: 40px;
 }
+#pading-delvideo{
+  padding: 20px;
+}
 .about .icon-box .icon {
   float: left;
   display: flex;
